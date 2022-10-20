@@ -1,0 +1,18 @@
+[wwww.patika.dev] Veri Yapıları ve Algoritmalar Dersi 2. Porjesi:
+
+      [16,21,11,8,12,22]        Diziyi iki gruba ayırdım,
+                                                
+   [16,21,11]      [8,12,22]    İkiye ayrılmış dizileri de kendi iiçinde ikili ve tekli kalacak şekilde ayırdım,
+                                             
+ [16]  [21,11]    [8,12]  [22]  İki elemanlı dizileri tekli diziler olacak şekilde ayırdım,
+                                        
+[16] [21] [11]    [8] [12] [22] İkiliden bölünen elemanları sıralayarak iki elemanlı dizileri tekrar oluşturdum,
+                                      
+ [16]  [11,21]    [8,12]  [22]  En başta bölünen üçlüleri de sıralayarak tekrar oluşturdum,
+                                      
+   [11,16,21]      [8,12,22]    İkiye ayrılmış sıralı dizilerimi birleştirdim,
+
+      [8,11,12,16,21,22]        Merge sort tamamlanmış oldu.
+                                                  
+                                                  
+Big-O Gösterimi:  O(nlogn) (n=6)
