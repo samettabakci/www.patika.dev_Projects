@@ -15,4 +15,4 @@
       [8,11,12,16,21,22]        Merge sort tamamlanmış oldu.
                                                   
                                                   
-Big-O Gösterimi:  O(nlogn) (n=6)
+Big-O Gösterimi:  O(nlogn) (n=6) 
